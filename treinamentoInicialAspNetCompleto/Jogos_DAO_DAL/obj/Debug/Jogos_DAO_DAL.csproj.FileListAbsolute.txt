@@ -1,0 +1,14 @@
+C:\PROGRAMAÇÃO\C#\Windows\windows forms\Testes\Teste_1505\Jogos_DAO_DAL\obj\Debug\Jogos_DAO_DAL.csprojResolveAssemblyReference.cache
+C:\PROGRAMAÇÃO\C#\Windows\windows forms\Testes\Teste_1505\Jogos_DAO_DAL\bin\Debug\Jogos_DAO_DAL.dll
+C:\PROGRAMAÇÃO\C#\Windows\windows forms\Testes\Teste_1505\Jogos_DAO_DAL\bin\Debug\Jogos_DAO_DAL.pdb
+C:\PROGRAMAÇÃO\C#\Windows\windows forms\Testes\Teste_1505\Jogos_DAO_DAL\bin\Debug\Jogos_Model.dll
+C:\PROGRAMAÇÃO\C#\Windows\windows forms\Testes\Teste_1505\Jogos_DAO_DAL\bin\Debug\Jogos_Model.pdb
+C:\PROGRAMAÇÃO\C#\Windows\windows forms\Testes\Teste_1505\Jogos_DAO_DAL\obj\Debug\Jogos_DAO_DAL.dll
+C:\PROGRAMAÇÃO\C#\Windows\windows forms\Testes\Teste_1505\Jogos_DAO_DAL\obj\Debug\Jogos_DAO_DAL.pdb
+C:\PROGRAMAÇÃO\C#\Web\treinamentoInicialAspNetCompleto\Jogos_DAO_DAL\bin\Debug\Jogos_DAO_DAL.dll
+C:\PROGRAMAÇÃO\C#\Web\treinamentoInicialAspNetCompleto\Jogos_DAO_DAL\bin\Debug\Jogos_DAO_DAL.pdb
+C:\PROGRAMAÇÃO\C#\Web\treinamentoInicialAspNetCompleto\Jogos_DAO_DAL\bin\Debug\Jogos_Model.dll
+C:\PROGRAMAÇÃO\C#\Web\treinamentoInicialAspNetCompleto\Jogos_DAO_DAL\bin\Debug\Jogos_Model.pdb
+C:\PROGRAMAÇÃO\C#\Web\treinamentoInicialAspNetCompleto\Jogos_DAO_DAL\obj\Debug\Jogos_DAO_DAL.csprojResolveAssemblyReference.cache
+C:\PROGRAMAÇÃO\C#\Web\treinamentoInicialAspNetCompleto\Jogos_DAO_DAL\obj\Debug\Jogos_DAO_DAL.dll
+C:\PROGRAMAÇÃO\C#\Web\treinamentoInicialAspNetCompleto\Jogos_DAO_DAL\obj\Debug\Jogos_DAO_DAL.pdb
